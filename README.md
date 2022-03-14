@@ -1,4 +1,7 @@
 # Secure Storage
+
+[![Codacy Security Scan](https://github.com/matteobaccan/Secure-Storage/actions/workflows/codacy.yml/badge.svg)](https://github.com/matteobaccan/Secure-Storage/actions/workflows/codacy.yml)
+
 The necessity and desire to secure personal information is one thing that everyone shares around the world in the recent times, ranging from businesses to governments to military structures. Data security is critical whether it is being stored, sent, or delivered. Data breaches, hacking, and lost or stolen devices can have catastrophic financial and reputational costs. The need for a Library to protect data generated and handled by applications arose from a desire to protect not only public structures, but also individual citizens, who are even more at risk if their freedom of expression, gender, religion, and any data relating to their person and loved ones is not protected. 
 
 Any application that does not secure the data it generates and manages carries the risk of revealing sensitive information that can be used to profile users, scammers to invent scams, and hackers to carry out their plans to pirated programs. The information created by the applications can easily be gathered and marketed on the dark web. 
